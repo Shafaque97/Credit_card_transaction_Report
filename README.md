@@ -58,4 +58,15 @@
 	8.	Revenue by Personal loan:
 	•	customers with personal loans show strong performance, with males generating $27M and females $22M.
 
+
+ # Repository structure
+    -     Data -[link text](https://github.com/Shafaque97/Online-Retail-sales-Forecasting-PowerBI-Dashboard/blob/main/Online%20retail%20sales%20forecast%20DataSet.xlsx)
+    -     Dashboard - [link text](https://github.com/Shafaque97/Online-Retail-sales-Forecasting-PowerBI-Dashboard/blob/main/Online%20Retail%20Sales%20Forecasting%20Dashboard.pbix)
+    -     Image -[link text](https://github.com/Shafaque97/Online-Retail-sales-Forecasting-PowerBI-Dashboard/blob/main/Online%20retail%20sales%20dashboard%20image.png)
+
+
+# Feedback & Collaboration
+    -     Your feedback is welcome! If you'd like to collaborate on similar projects,   
+          feel free to reach out.
+
     
