@@ -60,11 +60,10 @@
 
 
  # Repository structure
-    -     Data -[link text](https://github.com/Shafaque97/Online-Retail-sales-Forecasting-PowerBI-Dashboard/blob/main/Online%20retail%20sales%20forecast%20DataSet.xlsx)
-    -     Dashboard - [link text](https://github.com/Shafaque97/Online-Retail-sales-Forecasting-PowerBI-Dashboard/blob/main/Online%20Retail%20Sales%20Forecasting%20Dashboard.pbix)
+    -     Data -[link text]()
+    -     Dashboard - [link text]()
     -     Image -[link CC_transaction](https://github.com/Shafaque97/Credit_card_transaction_Report/blob/main/Credit%20card%20Transaction%20Report%20Image.png)
-    -     Image -[link CC_Customer](https://github.com/Shafaque97/Credit_card_transaction_Report/blob/main/Credit%20card%20Transaction%20Report%20Image.png)
-
+    -     Image -[link CC_Customer](https://github.com/Shafaque97/Credit_card_transaction_Report/blob/main/Credit%20card%20Customer%20Report%20Image.png)
 # Feedback & Collaboration
     -     Your feedback is welcome! If you'd like to collaborate on similar projects,   
           feel free to reach out.
