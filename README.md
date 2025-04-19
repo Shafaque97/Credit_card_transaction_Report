@@ -1,9 +1,14 @@
 # Credit_card_transaction
     This dashboard provides a comprehensive analysis of credit card transactions and their contribution to the 
-    company’s overall revenue. The company earned a total revenue of $56.5M, with $8M in interest income from 667.2K 
+    company’s overall revenue. 
+    
+    ## 
+    The company earned a total revenue of $56.5M, with $8M in interest income from 667.2K 
     transactions, totaling $45.5M in transaction value. Among card types, the Blue card is the most utilized, generating 
     the highest revenue ($47M) and interest, while the Platinum card is the least used, contributing just $1M.
 
+    ## 
+    
     Chip swipe transactions dominate in usage, yielding $36M, whereas online transactions contribute the least. 
     When categorized by expenditure type, bill payments lead with $14M, while travel expenses generate only $6M.
 
