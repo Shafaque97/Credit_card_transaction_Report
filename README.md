@@ -60,8 +60,10 @@
 
 
  # Repository structure
-    -     Data -[link text]()
-    -     Dashboard - [link text]()
+    -     Data -[link CC_transaction](https://github.com/Shafaque97/Credit_card_transaction_Report/blob/main/credit_card.csv)
+    -     Data -[link CC_customer](https://github.com/Shafaque97/Credit_card_transaction_Report/blob/main/credit_card.csv)
+    -     Dashboard - [link CC_transaction]()
+    -     Dashboard - [link CC_customer]()
     -     Image -[link CC_transaction](https://github.com/Shafaque97/Credit_card_transaction_Report/blob/main/Credit%20card%20Transaction%20Report%20Image.png)
     -     Image -[link CC_Customer](https://github.com/Shafaque97/Credit_card_transaction_Report/blob/main/Credit%20card%20Customer%20Report%20Image.png)
 # Feedback & Collaboration
